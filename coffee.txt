@@ -1,5 +1,6 @@
 Before we start to talk about coffee we should understand what makes us feel tired.
-Our body has ability to transfer energy to cells by ATP (Adenosine Tri-Phosphate) molecules. They are made from glucose that we eat.
+Our body has ability to transfer energy to cells by ATP (Adenosine Tri-Phosphate) molecules.
+They are made from glucose that we eat.
 These molecules contain three phosphates.
 Let's imagine that you have a gun with three bullets.
 Every time you need energy, e.g. for doing exercise, that gun starts shooting energy to protein molecules and has to make them do their work.
